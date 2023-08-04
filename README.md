@@ -11,3 +11,12 @@
 1. Transmit string
 
 2. Transmit dataframe
+
+[3_create_mdi_window.ipynb](https://github.com/rayguna/pyQt5/blob/master/3_create_mdi_window.ipynb "3_create_mdi_window.ipynb")
+
+[4_listbox_checkbox.ipynb](https://github.com/rayguna/pyQt5/blob/master/4_listbox_checkbox.ipynb "4_listbox_checkbox.ipynb")
+
+1. Listbox with checkbox
+2. Adding group separator between items
+3. Listbox with checkbox and textbox
+4. Instantiate listbox from another main window and force-close it when main window is closed
